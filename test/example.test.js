@@ -39,7 +39,7 @@ test('return dog info ', (expect) => {
  
 
     };
-    console.log(dog);
+   
 
     const actual = renderDogDetail(dog);
 
